@@ -1,0 +1,14 @@
+{
+  "contract": {
+    "customerID": "12345678",
+    "date": "03-18-2025",
+    "customerName": "Bob Smith",
+    "customerAddress": {
+      "street": "9876 S 27th St",
+      "city": "Dallas",
+      "zip": "77777",
+      "state": "TX"
+    }
+  },
+  "file_name": "Bob_Smith_NDA.pdf"
+}
